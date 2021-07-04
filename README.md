@@ -38,7 +38,7 @@
 *Данные и фичи*: характеристики клиентов банка. Целевой признак: Exited — факт ухода клиента.  
 *Стек инструментов*: train_test_split, StandardScaler, shuffle, accuracy_score, f1_score, precision_recall_curve, roc_curve, confusion_matrix, classification_report. Проект с применением техник масштабирования и стандартизации, методов борьбы с дисбалансом классов (upsample, downsample).  
 *Результаты*: Выбрана лучшая модель RandomForestClassifier, показавшая положительную динамику на PR-кривой и roc_auc_score= 0.87 ( при F1 = 0.63- превышающая минимально обозначенное значение метрики по условию в 0.59).  
-[*Проект*] (https://github.com/k-vero2021/Training_project_2021/blob/main/%D0%9E%D1%82%D1%82%D0%BE%D0%BA%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.ipynb)
+[*Проект*](https://github.com/k-vero2021/Training_project_2021/blob/main/%D0%9E%D1%82%D1%82%D0%BE%D0%BA%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.ipynb)
 
 ***Поиск токсичных комментариев.***   
 *Задача*: Обучение модели классификации комментариев на позитивные и негативные (задача классификациис применением NLP).  
